@@ -1,6 +1,6 @@
-# `{{ 신진철 }}` - `{{ jumpuphappyschool }}`
+# 팀 '신진철'의 'Jump to happy school'
 
-해커그라운드 해커톤에 참여하는 `{{ 신진철 }}` 팀의 `{{ jumpuphappyschool }}`입니다.
+해커그라운드 해커톤에 참여하는 `신진철` 팀의 `Jump up to happy school`입니다.
 
 ## 참고 문서
 
